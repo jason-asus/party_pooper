@@ -4,6 +4,7 @@ const ctx = backround.getContext("2d");
 let gameover = false;
 
 //score
+//
 let score = 0;
 ctx.font = "50px Arial"; // Font style and size
 ctx.fillStyle = "white"; // Text color
