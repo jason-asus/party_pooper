@@ -53,7 +53,7 @@ function gameLoop() {
     textStayFrame--;
   }
 
-  //balloon
+  //balloon //
 
   for (let balloon of balloonz) {
     if (gameover == false) {
